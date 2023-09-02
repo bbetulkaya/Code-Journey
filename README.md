@@ -22,7 +22,7 @@ Feel free to explore the projects, learn from the code, and provide feedback or 
 
 | Project Name                     | Description                             | Technologies Used                  | Demo               | Tutorial Source    |
 | -------------------------------- | --------------------------------------- | ---------------------------------- | ------------------ | ------------------- |
-| [☀️Weather App](00-WeatherApp/)   | A weather app that offers real-time updates based on user input or device location.|<br><ul><li>JavaScript</li><li>HTML</li><li>CSS</li><li>Weather API</li></ul> |[🔗 Demo 1](demo-link-1) | [📘 Build A Weather App in HTML CSS & JavaScript](https://youtu.be/c1r-NqYkFPc?si=RciHm_To-kqp_Qek) |
+| [☀️Weather App](00-WeatherApp/)   | A weather app that offers real-time updates based on user input or device location.|<ul><li>JavaScript</li><li>HTML</li><li>CSS</li><li>Weather API</li></ul> |[🔗 Demo 1](demo-link-1) | [📘 Build A Weather App in HTML CSS & JavaScript](https://youtu.be/c1r-NqYkFPc?si=RciHm_To-kqp_Qek) |
 | [Project 2](link-to-project-2)   | A brief description of the project 2.   | List of technologies for project 2  | [🔗 Demo 2](demo-link-2) | [📘 Tutorial 2](tutorial-link-2) |
 | [Project 3](link-to-project-3)   | A brief description of the project 3.   | List of technologies for project 3  | [🔗 Demo 3](demo-link-3) | [📘 Tutorial 3](tutorial-link-3) |
 
