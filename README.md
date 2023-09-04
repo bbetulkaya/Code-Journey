@@ -36,7 +36,7 @@ If you have any questions, feedback, or would like to collaborate on a project, 
 
 - LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-blue)](https://www.linkedin.com/in/bbetulkaya/)
 - Instagram: [![Instagram](https://img.shields.io/badge/Instagram-Follow%20Me-orange)](https://www.instagram.com/webdev.cat)
-- Discord: [![Discord](https://img.shields.io/badge/Discord-cocomilkcoco-7289DA)](https://www.discordapp.com/users/595192879631171584)
+- Discord: [![Discord](https://img.shields.io/badge/Discord-Hello%20There-7289DA)](https://www.discordapp.com/users/595192879631171584)
 <!-- - YouTube: [![YouTube](https://img.shields.io/badge/YouTube-Subscribe%20to%20My%20Channel-red)](https://www.youtube.com/your-channel) -->
 <!-- - Twitter: [![Twitter](https://img.shields.io/badge/Twitter-Follow%20Me-blue)](https://twitter.com/your-twitter-handle) -->
 
